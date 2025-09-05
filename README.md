@@ -138,8 +138,8 @@ A focused analysis on **T-Series**, the most subscribed channel on YouTube.
 ---
 
 ## 👤 Author & Contact  
-**Author:** [Your Name]  
-📧 Email: your.email@example.com  
+**Author:** [Bhaskar Pal]  
+📧 Email: bhaskarpal.official@gmail.com 
 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/bhaskar-pal-2k02/)  
 💼 Portfolio: [My Portfolio](https://bhaskarpal1707.github.io/portfolio/)  
 
